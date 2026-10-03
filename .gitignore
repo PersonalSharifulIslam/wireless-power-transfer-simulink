@@ -1,0 +1,9 @@
+# Generated MATLAB/Simulink artifacts
+*.slx
+*.slxc
+*.autosave
+*.asv
+results/
+*.mat
+*.log
+.DS_Store
